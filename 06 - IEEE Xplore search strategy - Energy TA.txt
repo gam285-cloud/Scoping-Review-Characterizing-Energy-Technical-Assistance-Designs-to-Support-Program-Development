@@ -1,0 +1,45 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for IEEE Xplore bibliographic database
+
+
+### Search performed May 23, 2026
+
+
+Number of records identified: 56
+
+Number of duplicate records from previous databases (i.e., Scopus, Engineering Village(Compendex), Web of Science): 1
+
+Number of new records: 55
+
+1. 
+("All Metadata":"technical assistance") AND ("All Metadata":"energy" OR "All Metadata":"energy efficiency" OR "All Metadata":"energy storage system" OR "All Metadata":"energy storage systems" OR "All Metadata":"renewable energy" OR "All Metadata":"clean energy" OR "All Metadata":"distributed energy resource" OR "All Metadata":"distributed energy resources" OR "All Metadata":"decentralized energy" OR "All Metadata":"DER" OR "All Metadata":"energy system" OR "All Metadata":"energy systems" OR "All Metadata":"energy sector" OR "All Metadata":“energy sectors” OR "All Metadata":"electrification" OR "All Metadata":"building energy" OR "All Metadata":"energy management" OR "All Metadata":"solar") AND ("All Metadata":"goal*" OR "All Metadata":"component" OR "All Metadata":"components" OR "All Metadata":"implementation*" OR "All Metadata":"delivery" OR "All Metadata":"educ*" OR "All Metadata":"train*" OR "All Metadata":"learn*" OR "All Metadata":"workshop" OR "All Metadata":"workshops" OR "All Metadata":"curricul*" OR "All Metadata":"pedagogy" OR "All Metadata":"andragogy" OR "All Metadata":"practice*" OR "All Metadata":"framework*" OR "All Metadata":"model*" OR "All Metadata":"approach" OR "All Metadata":“approaches” OR "All Metadata":"outcome" OR "All Metadata":"outcomes" OR "All Metadata":"strategy" OR "All Metadata":"strategies" OR "All Metadata":"strategic" OR "All Metadata":"evaluat*")
+
+2. Filters applied:
+- Year: 2000 - 2026
+- Filter out Books
+
+## Explanation of Search Choices
+
+- Metadata: "Includes the abstract, index terms, and bibliographic citation data (such as document title, publication title, author, etc.)."  Searching was done in Metadata as it most closely aligns to TITLE-ABS-KEY which was used in other bibliographic databases. This selection tried to ensure "technical assistance" and the other 2 included concepts were core parts of the identified documents. 
+
+- "technical assistance" was chosen as a required term as this study seeks to document its usage in the energy sector.
+
+- Concepts 2 and 3, which are separated by AND statements, capture energy and design/education respectively, ensuring the content of the documents are relevant to the study's focus.
+
+- Filters were applied as consistent with the exclusion criteria for year and removing books.
+
+- IEEE Xplore limits the total number of wildcards to 10. The following 9 wildcard terms were converted for explicit use:
+"energy storage system*" → ("energy storage system" OR "energy storage systems")
+"distributed energy resource*" → ("distributed energy resource" OR "distributed energy resources")
+"energy system*" → ("energy system" OR "energy systems")
+"energy sector*" → ("energy sector" OR "energy sectors")
+"component*" → ("component" OR "components")
+"workshop*" → ("workshop" OR "workshops")
+"outcome*" → ("outcome" OR "outcomes")
+"strateg*" → "strategy" OR “strategies ”OR "strategic"
+“approach*” → "approach" OR “approaches” 
+
+- Unlike other bibliographic databases, does not offer an option for Country of Origin or for Language. There is location of conference but it is possible U.S. based work that may have been presented internationally, so this was not filtered.
+
+- 56 results were found after filters were applied. Given IEEE Xplore's more narrow disciplinary focus (i.e., computer science, electrical engineering, electronics, and allied technologies) and focus on conference proceedings, this was deemed a reasonable volume as compared to other Bibliographic databases. To keep search strings consistent, and given that it yielded sone same documents as previous databases, additional refining of the search strategy was not undertaken.

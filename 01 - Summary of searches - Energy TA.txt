@@ -1,0 +1,70 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Summary of Literature Searches
+
+### Searches performed between April 26 to [END DATE], 2026
+
+## 1. Bibliographic Database Searches
+
+Total records identified through bibliographic database searching: PPPPP
+
+Databases searched:
+
+1. Scopus
+--Platform: Elsevier
+--Search Date:4-25-2026
+--date coverage 2000 - present
+--172 records identified
+
+2. Engineering Village (Compendex)
+--Platform: Elsevier
+--Search Date:5-21-2026
+--date coverage 2000 - present
+--73 records identified (66 duplicates from Scopus, 7 new records)
+
+3. Database 3
+--Platform: NAME
+--Search Date:[DATE]
+--date coverage 2000 - present
+--XXXX records identified
+
+4. Database 4
+--Platform: NAME
+--Search Date:[DATE]
+--date coverage 2000 - present
+--XXXX records identified
+
+5. Database 5
+--Platform: NAME
+--Search Date:[DATE]
+--date coverage 2000 - present
+--XXXX records identified
+
+## 2. Grey Literature Searches
+
+Total records identified through grey literature searching: [PPPPP]
+
+### 2.1 Targeted Organizational and Repository Searches
+
+Search approach:
+-- Keyword searches adapted from bibliographic strategy
+-- Filters applied where available (e.g., year, document type)
+
+1. National Laboratory of the Rockies Research Hub
+--Search Date:4-25-2026
+--92 records identified
+
+
+
+### 2.3 Targeted Web Searches
+
+
+## Deduplication and Record Management
+
+-- Records from bibliographic databases were exported to Covidence for deduplication and screening
+-- Grey literature records were managed separately in Excel due to variability in metadata using a screening process that matched step-by-step that of Covidence 
+-- Final datasets were combined prior to data charting and synthesis
+
+
+
+

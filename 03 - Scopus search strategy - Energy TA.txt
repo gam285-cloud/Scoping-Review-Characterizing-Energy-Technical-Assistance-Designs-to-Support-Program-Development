@@ -1,0 +1,35 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for Scopus bibliographic database
+
+
+### Search performed April 25, 2026
+
+
+Number of records identified: 172
+
+1. TITLE-ABS-KEY ("technical assistance"
+AND ("energy" OR "energy efficiency" OR "energy storage system*" OR "renewable energy" OR "clean energy" OR "distributed energy resource*" OR "decentralized energy" OR "DER" OR "energy system*" OR "energy sector*" OR "electrification" OR "building energy" OR "energy management" OR "solar")
+AND ("goal*" OR "component*" OR "implementation*" OR "delivery" OR "educ*" OR "train*" OR "learn*" OR "workshop*" OR "curricul*" OR "pedagogy" OR "andragogy" OR "practice*" OR "framework*" OR "model*" OR "approach*" OR "outcome*" OR "strateg*" OR “evaluat*”))
+
+2. Filters applied:
+- Language: English
+- Publication year: 2000–present
+- Affiliation country: United States OR Undefined
+
+
+## Explanation of Search Choices
+
+- "technical assistance" was chosen as a required term as this study seeks to document its usage in the energy sector.
+
+- TITLE-ABS-KEY was selected tried to ensure "technical assistance" and the other 2 included concepts were core parts of the identified documents. 
+
+- Concepts 2 and 3, which are separated by AND statements, capture energy and design/education respectively, ensuring the content of the documents are relevant to the study's focus.
+
+- Filters were applied as consistent with the exclusion criteria; a large amount of technical assistance work is done in international contexts, so filtering these out early is helpful.
+
+- Affiliation country added "Undefined" to ensure no other relevant U.S. documents were lost by excluding that category.
+
+- 172 results was deemed reasonable for the size of the research team and specificity of the topic. Given the relevance and reasonable volume of the output documents, additional guidance was not needed for this database.
+
+

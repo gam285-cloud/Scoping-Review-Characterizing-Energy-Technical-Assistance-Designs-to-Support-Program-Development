@@ -1,0 +1,35 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for Web of Science bibliographic database
+
+
+### Search performed May 22, 2026
+
+
+Number of records identified: 34
+
+Number of duplicate records from previous databases (i.e., Scopus, Engineering Village(Compendex)): 31
+
+Number of new records: 3
+
+1. 
+((TS=("technical assistance")) AND TS=("energy" OR "energy efficiency" OR "energy storage system*" OR "renewable energy" OR "clean energy" OR "distributed energy resource*" OR "decentralized energy" OR "DER" OR "energy system*" OR "energy sector*" OR "electrification" OR "building energy" OR "energy management" OR "solar")) AND TS=("goal*" OR "component*" OR "implementation*" OR "delivery" OR "educ*" OR "train*" OR "learn*" OR "workshop*" OR "curricul*" OR "pedagogy" OR "andragogy" OR "practice*" OR "framework*" OR "model*" OR "approach*" OR "outcome*" OR "strateg*" OR “evaluat*”)
+
+2. Filters applied:
+- Publication year: 2000–present
+- Language: English
+- Country/Regions: USA
+
+## Explanation of Search Choices
+
+- TS stands for topic search, which "Searches title, abstract, keyword plus, and author keywords." This was chosen to most closely align to TITLE-ABS-KEY which was used in other bibliographic databases. This selection tried to ensure "technical assistance" and the other 2 included concepts were core parts of the identified documents. 
+
+- "technical assistance" was chosen as a required term as this study seeks to document its usage in the energy sector.
+
+- Concepts 2 and 3, which are separated by AND statements, capture energy and design/education respectively, ensuring the content of the documents are relevant to the study's focus.
+
+- Filters were applied as consistent with the exclusion criteria; a large amount of technical assistance work is done in international contexts, so filtering these out early is helpful.
+
+- Unlike other bibliographic databases, Web of Science does not offer "Undefined" as an option for Country of Origin.
+
+- 34 results was lower than expected for Web of Science, which is a direct competitor of Scopus with expected 50-60% overlap. To keep search strings consistent, and given that it yielded sone same documents as previous databases, additional refining of the search strategy was not undertaken.

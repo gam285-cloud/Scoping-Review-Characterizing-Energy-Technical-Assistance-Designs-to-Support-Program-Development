@@ -1,0 +1,43 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for Engineering Village (Compendex) bibliographic database
+
+
+### Search performed May 21, 2026
+
+
+Number of records identified: 73
+
+Number of duplicate records from previous databases (i.e., Scopus): 66
+
+Number of new records: 7
+
+1. 
+Subject/Title/Abstract: ("technical assistance"
+AND ("energy" OR "energy efficiency" OR "energy storage system*" OR "renewable energy" OR "clean energy" OR "distributed energy resource*" OR "decentralized energy" OR "DER" OR "energy system*" OR "energy sector*" OR "electrification" OR "building energy" OR "energy management" OR "solar")
+AND ("goal*" OR "component*" OR "implementation*" OR "delivery" OR "educ*" OR "train*" OR "learn*" OR "workshop*" OR "curricul*" OR "pedagogy" OR "andragogy" OR "practice*" OR "framework*" OR "model*" OR "approach*" OR "outcome*" OR "strateg*" OR “evaluat*”))
+
+2. Filters applied:
+- Language: English
+- Publication year: 2026 OR 2025 OR 2024 OR 2023 OR 2022 OR 2021 OR 2020 OR 2019 OR 2018 OR 2017 OR 2016 OR 2015 OR 2014 OR 2013 OR 2012 OR 2011 OR 2010 OR 2009 OR 2008 OR 2007 OR 2006 OR 2005 OR 2004 OR 2003 OR 2002 OR 2001 OR 2000
+- Country of Origin: United States
+
+## Explanation of Search Choices
+
+- Compendex (COMPuterized ENgineering inDEX) was selected as it is the most comprehensive, peer-reviewed engineering literature database in the world. 
+
+- Knovel was not included as a database with Engineering Village as the goal of this search was to gather data, not answer a targeted question. Additionally, Knovel was excluded to minimize use of AI in search process to ensure reproducibility.
+
+- "technical assistance" was chosen as a required term as this study seeks to document its usage in the energy sector.
+
+- Subject/Title/Abstract was chosen to most closely align to TITLE-ABS-KEY which was used in other bibliographic databases. This selection tried to ensure "technical assistance" and the other 2 included concepts were core parts of the identified documents. 
+
+- Concepts 2 and 3, which are separated by AND statements, capture energy and design/education respectively, ensuring the content of the documents are relevant to the study's focus.
+
+- Filters were applied as consistent with the exclusion criteria; a large amount of technical assistance work is done in international contexts, so filtering these out early is helpful.
+
+- Engineering Village's distinct layout required individual selection of all years 2020-2026 for filtering.
+
+- Unlike other bibliographic databases, Engineering Village does not offer "Undefined" as an option for Country of Origin.
+
+- 73 results was deemed reasonable given the expected overlap with Scopus as they are both from Elsevier, but narrower focus of Engineering Village. Given the relevance and reasonable volume of the output documents, additional guidance was not needed for this database.

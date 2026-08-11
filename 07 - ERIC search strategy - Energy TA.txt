@@ -1,0 +1,35 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for ERIC bibliographic database
+
+
+### Search performed June 1, 2026
+
+
+Number of records identified: 17
+
+Number of duplicate records from previous databases (i.e., Scopus, Engineering Village(Compendex), Web of Science, IEEE Xplore): 0
+
+Number of new records: 17
+
+1. (title:"technical assistance" OR abstract:"technical assistance” OR descriptor:"technical assistance”) AND (title:"energy" OR abstract:"energy” OR descriptor:"energy”) pubyearmin:2000 language:english
+
+2. Filters applied (in search string):
+- pubyearmin:2000 
+- language:english
+
+## Explanation of Search Choices
+
+-  Searching was done in title OR abstract OR descriptor as it most closely aligns to TITLE-ABS-KEY which was used in other bibliographic databases. This selection tried to ensure "technical assistance" and "energy" were core parts of the identified documents. 
+
+- "technical assistance" was chosen as a required term as this study seeks to document its usage in the energy sector.
+
+- Concepts 2 "energy", which was separated by AND statements, captured energy, ensuring the content of the documents are relevant to the study's focus. Given the more complicated nature of searching on ERIC (i.e., separately indicating title, abstract, and descriptor for each term), most of the concept 2 synonyms were removed as they mostly all contained the word "energy" in them and would still be captured by this simplified search.
+
+- The previous third concept focusing on design/education was omitted from the ERIC search given the already relevant educational focus of this database, and to maximize the number of searches found from this more niche database in regards to energy work.
+
+- Filters were applied as consistent with the exclusion criteria for year and language.
+
+- Unlike other bibliographic databases, does not offer an option for filtering Country of Origin.
+
+- 17 results were found after filters were applied. Given ERIC's more narrow disciplinary focus on education with limited documents from the energy industry, this was deemed a reasonable volume as compared to other Bibliographic databases.

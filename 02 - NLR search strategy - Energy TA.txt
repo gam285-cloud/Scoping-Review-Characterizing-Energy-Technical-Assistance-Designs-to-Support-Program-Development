@@ -1,0 +1,31 @@
+ # Investigating Educational Practices to Support Learners in Energy Technical Assistance Programs: A scoping review 
+
+## Search strategy for National Laboratory of the Rockies Research Hub
+
+
+### Search performed April 25, 2026
+
+
+Number of records identified: 92
+
+
+1. Research Output > Advanced Search > 
+Related Concepts > With All Words > 
+"Technical Assistance"
+
+2. No available filters offered on this repository
+
+
+## Explanation of Search Choices
+
+- 'Research Output' page in the NLR Research Hub was selected as this offered the most relevant and comprehensive collection of document types (e.g., Article, Paper, Technical Report, Fact Sheet, Book).
+
+- The 'Advanced Search' function offered more detailed control of search.
+
+- 'Related Concepts' offers a "Search across key concepts extracted from titles and abstracts" which is closest to the TITLE-ABS-KEY field code used in Bibliographic searches.
+
+- 'With All Words' was selected to ensure all chosen keywords were included.
+
+- "Technical Assistance" was chosen as the initial keyword, yielding 92 results. Given the relevance and reasonable volume of the output documents, additional guidance was not needed for this repository as it represents a key source of data for this topic.
+
+- Additional screening of language, release year, and country was not offered, so these were screened manually after.
