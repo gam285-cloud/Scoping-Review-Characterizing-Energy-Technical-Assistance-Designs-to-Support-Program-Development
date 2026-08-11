@@ -1,0 +1,2 @@
+# Scoping-Review-Characterizing-Energy-Technical-Assistance-Designs-to-Support-Program-Development
+Energy technical assistance (ETA) programs leverage the expertise of energy experts to deliver educational offerings and project support in order to help stakeholders make informed decisions about implementing energy technologies, practices, or processes. This project will generate the first national evidence base of ETA designs and practices,
