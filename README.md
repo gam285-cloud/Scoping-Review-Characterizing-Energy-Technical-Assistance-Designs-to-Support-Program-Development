@@ -10,7 +10,7 @@ The resulting evidence base is intended to provide a central reference for:
 - **Program managers and evaluators** developing evaluation approaches and standards; and
 - **Researchers** studying technical assistance, engineering learning, energy deployment, and related forms of professional support.
 
-*For more details this study's motivation design, see the Scoping Review Protocol.*
+*For more details this study's motivation design, see the Scoping Review Protocol Draft.*
 
 ## Repository Contents
 This repository serves as the public project archive for the scoping review. Materials will be added and updated throughout the review process.
@@ -21,7 +21,7 @@ Current content includes:
 ```text
 .
 ├── protocol
-│   └── Scoping Review Protocol and Protocol Drafts
+│   └── Scoping Review Protocol Drafts
 │
 ├── database-search-strategies
 │   ├── Scopus
