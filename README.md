@@ -1,10 +1,8 @@
 # Scoping Review Characterizing Energy Technical Assistance Designs to Support Program Development
 ## Project Overview
-Energy technical assistance (ETA) programs leverage the expertise of energy experts to deliver educational offerings and project support in order to help stakeholders make informed decisions about implementing energy technologies, practices, or processes.
+Energy technical assistance (ETA) programs leverage the expertise of energy experts to deliver educational offerings (e.g., workshops, fact sheets) and project support (e.g., feasibility studies, financial planning) in order to help stakeholders make informed decisions about implementing energy technologies, practices, or processes. Every year, hundreds of millions of dollars are invested into ETA programs hosted by government agencies, national laboratories, nonprofit organizations, and other entities. Despite its growing importance for meeting rising energy needs, ETA programs have developed across diverse technologies, sectors, locations, and organizational contexts without a unified source characterizing their designs and practices.
 
-ETA is used by government agencies, national laboratories, nonprofit organizations, and other entities to support stakeholders working to deploy, adopt, operate, and/or sustain energy technologies and initiatives. Despite its growing importance, ETA programs have developed across diverse technologies, sectors, locations, and organizational contexts without a unified source characterizing their designs and practices.
-
-This project will generate a national evidence base of U.S. ETA designs and practices through a scoping review. The review will characterize the goals, components, practices, delivery strategies, providers, recipients, and contexts represented across the ETA literature. Findings will be synthesized into evidence maps that describe the current ETA landscape, identify patterns and gaps, and support more strategic program development and evaluation.
+This project will generate a national evidence base of U.S. ETA designs and practices through a scoping review. The review will characterize the reported goals, components, practices, delivery strategies, providers, recipients, and contexts across the ETA literature. Findings will be synthesized into evidence maps that describe the current ETA landscape, identify patterns and gaps, and support more strategic program development and evaluation.
 
 The resulting evidence base is intended to provide a central reference for:
 - **Funding entities** seeking to identify the types of ETA and target audiences that require support;
@@ -12,6 +10,7 @@ The resulting evidence base is intended to provide a central reference for:
 - **Program managers and evaluators** developing evaluation approaches and standards; and
 - **Researchers** studying technical assistance, engineering learning, energy deployment, and related forms of professional support.
 
+*For more details this study's motivation design, see the Scoping Review Protocol.*
 
 ## Repository Contents
 This repository serves as the public project archive for the scoping review. Materials will be added and updated throughout the review process.
