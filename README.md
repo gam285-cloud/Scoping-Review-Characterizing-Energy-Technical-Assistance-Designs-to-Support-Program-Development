@@ -6,7 +6,21 @@ Energy technical assistance (ETA) programs leverage the expertise of energy expe
 ## Repository Contents
 This repository serves as the public project archive for the scoping review. Materials will be added and updated throughout the review process.
 
-├── protocol/ │ └── Scoping review protocol and protocol drafts │ ├── search-strategies/ │ ├── Scopus │ ├── Web of Science │ ├── Engineering Village / Compendex │ ├── ERIC │ ├── IEEE Xplore │ ├── ScienceDirect │ └── Grey literature search strategies │ ├── screening/ │ └── Screening criteria, procedures, and documentation │ ├── data/ │ ├── Search results and record management files │ ├── Included and excluded source documentation │ └── Data charting spreadsheets │ ├── analysis/ │ └── Evidence maps, coding materials, and synthesis outputs │ └── README.md
+Current content includes:
+
+├── protocol/ 
+│ └── Scoping review protocol and protocol drafts 
+│ 
+├── search-strategies/ 
+│ ├── Scopus 
+│ ├── Web of Science 
+│ ├── Engineering Village - Compendex 
+│ ├── ERIC 
+│ ├── IEEE Xplore 
+│ ├── ScienceDirect 
+│ └── Grey literature search strategies 
+
+│ └── README.md
 
 ### Search Documentation
 Search strategies are maintained separately for each database or information source. These files document, where applicable:
