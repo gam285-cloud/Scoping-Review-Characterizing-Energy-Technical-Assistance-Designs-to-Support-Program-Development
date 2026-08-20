@@ -11,15 +11,17 @@ Current content includes:
 ├── protocol/ 
 │ └── Scoping review protocol and protocol drafts 
 │ 
-├── search-strategies/ 
+├── database-search-strategies/ 
 │ ├── Scopus 
 │ ├── Web of Science 
 │ ├── Engineering Village - Compendex 
 │ ├── ERIC 
 │ ├── IEEE Xplore 
-│ ├── ScienceDirect 
-│ └── Grey literature search strategies 
-
+│ └── ScienceDirect
+│
+├── grey-literature-search-strategies/ 
+│ └── NLR Research Hub
+│
 │ └── README.md
 
 ### Search Documentation
