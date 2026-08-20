@@ -18,15 +18,15 @@ This repository serves as the public project archive for the scoping review. Mat
 Current content includes:
 
 ├── protocol/ 
-│ └── Scoping review protocol and protocol drafts 
+│ └── Scoping review protocol and protocol drafts /
 │ 
 ├── database-search-strategies/ 
-│ ├── Scopus 
-│ ├── Web of Science 
-│ ├── Engineering Village - Compendex 
-│ ├── ERIC 
-│ ├── IEEE Xplore 
-│ └── ScienceDirect
+│ ├── Scopus /
+│ ├── Web of Science /
+│ ├── Engineering Village - Compendex /
+│ ├── ERIC /
+│ ├── IEEE Xplore /
+│ └── ScienceDirect /
 │
 ├── grey-literature-search-strategies/ 
 │ └── NLR Research Hub
