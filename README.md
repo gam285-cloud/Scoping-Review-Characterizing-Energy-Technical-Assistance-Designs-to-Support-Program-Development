@@ -16,23 +16,27 @@ The resulting evidence base is intended to provide a central reference for:
 This repository serves as the public project archive for the scoping review. Materials will be added and updated throughout the review process.
 
 Current content includes:
-'''
-├── protocol/ 
-│ └── Scoping review protocol and protocol drafts /
-│ 
-├── database-search-strategies/ 
-│ ├── Scopus /
-│ ├── Web of Science /
-│ ├── Engineering Village - Compendex /
-│ ├── ERIC /
-│ ├── IEEE Xplore /
-│ └── ScienceDirect /
+### Current Content
+
+```text
+.
+├── protocol/
+│   └── Scoping Review Protocol and Protocol Drafts
 │
-├── grey-literature-search-strategies/ 
-│ └── NLR Research Hub
+├── database-search-strategies/
+│   ├── Scopus
+│   ├── Web of Science
+│   ├── Engineering Village - Compendex
+│   ├── ERIC
+│   ├── IEEE Xplore
+│   └── ScienceDirect
 │
-│ └── README.md
-'''
+├── grey-literature-search-strategies/
+│   └── NLR Research Hub
+│
+└── README.md
+```
+
 
 ### Search Documentation
 Search strategies are maintained separately for each database or information source. These files document, where applicable:
