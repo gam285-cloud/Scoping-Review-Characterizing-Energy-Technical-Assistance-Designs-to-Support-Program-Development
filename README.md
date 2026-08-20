@@ -7,10 +7,10 @@ ETA is used by government agencies, national laboratories, nonprofit organizatio
 This project will generate a national evidence base of U.S. ETA designs and practices through a scoping review. The review will characterize the goals, components, practices, delivery strategies, providers, recipients, and contexts represented across the ETA literature. Findings will be synthesized into evidence maps that describe the current ETA landscape, identify patterns and gaps, and support more strategic program development and evaluation.
 
 The resulting evidence base is intended to provide a central reference for:
-- Funding entities seeking to identify the types of ETA and target audiences that require support;
-- ETA providers seeking to understand, refine, and adopt program practices;
-- Program managers and evaluators developing evaluation approaches and standards; and
-- *Researchers* studying technical assistance, engineering learning, energy deployment, and related forms of professional support.
+- **Funding entities** seeking to identify the types of ETA and target audiences that require support;
+- **ETA providers** seeking to understand, refine, and adopt program practices;
+- **Program managers and evaluators** developing evaluation approaches and standards; and
+- **Researchers** studying technical assistance, engineering learning, energy deployment, and related forms of professional support.
 
 
 ## Repository Contents
