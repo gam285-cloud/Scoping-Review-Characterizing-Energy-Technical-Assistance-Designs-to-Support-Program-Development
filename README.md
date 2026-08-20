@@ -20,10 +20,10 @@ Current content includes:
 
 ```text
 .
-├── protocol/
+├── protocol
 │   └── Scoping Review Protocol and Protocol Drafts
 │
-├── database-search-strategies/
+├── database-search-strategies
 │   ├── Scopus
 │   ├── Web of Science
 │   ├── Engineering Village - Compendex
@@ -31,7 +31,7 @@ Current content includes:
 │   ├── IEEE Xplore
 │   └── ScienceDirect
 │
-├── grey-literature-search-strategies/
+├── grey-literature-search-strategies
 │   └── NLR Research Hub
 │
 └── README.md
