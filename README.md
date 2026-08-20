@@ -1,10 +1,21 @@
-# Scoping Review-Characterizing-Energy-Technical-Assistance-Designs-to-Support-Program-Development
+# Scoping Review Characterizing Energy Technical Assistance Designs to Support Program Development
 ## Project Overview
 Energy technical assistance (ETA) programs leverage the expertise of energy experts to deliver educational offerings and project support in order to help stakeholders make informed decisions about implementing energy technologies, practices, or processes. This project will generate the first national evidence base of ETA designs and practices.
 
 
 ## Repository Contents
 This repository serves as the public project archive for the scoping review. Materials will be added and updated throughout the review process.
+
+├── protocol/ │ └── Scoping review protocol and protocol drafts │ ├── search-strategies/ │ ├── Scopus │ ├── Web of Science │ ├── Engineering Village / Compendex │ ├── ERIC │ ├── IEEE Xplore │ ├── ScienceDirect │ └── Grey literature search strategies │ ├── screening/ │ └── Screening criteria, procedures, and documentation │ ├── data/ │ ├── Search results and record management files │ ├── Included and excluded source documentation │ └── Data charting spreadsheets │ ├── analysis/ │ └── Evidence maps, coding materials, and synthesis outputs │ └── README.md
+
+### Search Documentation
+Search strategies are maintained separately for each database or information source. These files document, where applicable:
+- Database or repository searched;
+- Search date;
+- Boolean search strings;
+- Filters and limits applied;
+- Date ranges covered; and
+- Number of records retrieved.
 
 ## Project Team
 ### Gabriel Mendez-Sanders
