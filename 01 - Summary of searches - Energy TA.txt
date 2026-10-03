@@ -1,0 +1,76 @@
+# Characterizing Energy Technical Assistance Designs to Support Strategic Program Development: A scoping review protocol
+
+## Summary of Literature Searches
+
+### Searches performed between April 26 to September 1, 2026
+
+## 1. Bibliographic Database Searches
+
+Total records identified through bibliographic database searching: 352
+
+Unique records identified through bibliographic database searching: 254 (98 duplicates across databases)
+
+Databases searched:
+
+1. Scopus
+--Platform: Elsevier
+--Search Date:4-25-2026
+--date coverage: 2000 - 2026
+--172 records identified
+
+2. Engineering Village (Compendex)
+--Platform: Elsevier
+--Search Date:5-21-2026
+--date coverage: 2000 - 2026
+--73 records identified (66 duplicates from Scopus, 7 new records)
+
+3. Web of Science
+--Search Date: 5-22-2026
+--date coverage: 2000 - 2026
+--34 records identified (31 duplicates from previous databases, 3 new records)
+
+4. IEEE Xplore
+--Search Date: 5-23-2026
+--date coverage: 2000 - 2026
+--56 records identified (1 duplicate from previous databases, 55 new records)
+
+5. ERIC
+--Search Date: 6-1-2026
+--date coverage: 2000 - 2026
+--17 records identified (0 duplicates from previous databases, 17 new records)
+
+## 2. Grey Literature Searches
+
+Total records identified through grey literature searching: 516
+
+Unique records identified through grey literature searching: 444 (72 duplicates across repositories)
+
+### 2.1 Targeted Organizational and Repository Searches
+
+Search approach:
+-- Keyword searches adapted from bibliographic strategy
+-- Filters applied where available (e.g., year, document type)
+
+1. National Laboratory of the Rockies Research Hub
+--Search Date: 4-25-2026
+--date coverage: 2000 - 2026
+--92 records identified
+
+2. U.S. Department of Energy Office of Scientific and Technical Information (OSTI.gov)
+--Search Date: 9-1-2026
+--352 records identified
+--424 records identified (72 duplicates from previous databases, 352 new records)
+
+
+### 2.3 Targeted Web Searches
+
+
+## Deduplication and Record Management
+
+-- Records from bibliographic databases were exported to Covidence for deduplication and screening
+-- Grey literature records were managed separately in Excel due to variability in metadata using a screening process that matched step-by-step that of Covidence 
+-- Final datasets were combined prior to data charting and synthesis
+
+
+
+
